@@ -1,0 +1,11 @@
+.card-stats {
+  display: none;
+  padding-bottom: 0.5em;
+}
+
+.card-stats li {
+  background: var(--bg-stats);
+  padding: 0.25em 0.5em;
+  margin-right: 0.5em;
+  border-radius: 5px;
+}

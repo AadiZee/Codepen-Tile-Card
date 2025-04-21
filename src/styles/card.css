@@ -1,0 +1,15 @@
+.card {
+  max-width: 300px;
+  background: var(--bg-card);
+  margin: auto;
+  padding: 1em;
+  margin-top: 1rem;
+}
+
+.card:hover .card-stats {
+  display: flex;
+}
+
+.card:hover {
+  padding-bottom: 0;
+}

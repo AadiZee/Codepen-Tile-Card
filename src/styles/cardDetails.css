@@ -1,0 +1,13 @@
+.card-details {
+  line-height: 1.5;
+}
+
+.card-details h3 {
+  font-weight: 900;
+  font-size: 1rem;
+}
+
+.card-details p {
+  font-size: 0.85rem;
+  color: var(--username);
+}
